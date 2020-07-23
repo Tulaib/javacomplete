@@ -1,4 +1,4 @@
-// Name : Hammad Uddin
+// Name : Tulaib Ahmed
 //chapter no 38 - 42
 // question 1
 const power = (a,b) => Math.pow(a,b)
